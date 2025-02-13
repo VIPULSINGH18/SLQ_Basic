@@ -325,7 +325,7 @@
 -- age INT NOT NULL)
 
 
-# to add new columns inside the table 
+--# to add new columns inside the table 
 -- ALTER TABLE persons
 -- ADD email VARCHAR(50) PRIMARY KEY
 -- SELECT *
@@ -333,7 +333,7 @@
 
 
 
-#TO DELETE THE WHOLE TABLE FROM THE DATA BASE WE USE DROP COMMAND
+--#TO DELETE THE WHOLE TABLE FROM THE DATA BASE WE USE DROP COMMAND
 -- DROP TABLE persons
 
 
